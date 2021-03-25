@@ -10,8 +10,8 @@
 - curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.0.0 1.4.4 0.4.18
 - cp -r fabric-samples/bin ./
 - cd network
-- 1. Up network: ./network.sh up
-- 2. Down network: ./network.sh down
+- - Up network: ./network.sh up
+- - Down network: ./network.sh down
 ## Phia Client
 ## Phia Server
 
