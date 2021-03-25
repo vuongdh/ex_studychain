@@ -10,7 +10,7 @@
 - curl -sSL https://bit.ly/2ysbOFE | bash -s -- 2.0.0 1.4.4 0.4.18
 - cp -r fabric-samples/bin ./
 - cd network
--- DDDDD
+- DDDDD
 ## Phia Client
 ## Phia Server
 
