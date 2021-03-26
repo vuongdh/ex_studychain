@@ -1,0 +1,9 @@
+{
+	"network-configs": {
+		"studychain": {
+			"name": "study-chain",
+			"profile": "./connection-profile/study-chain.json"
+		}
+	},
+	"license": "Apache-2.0"
+}
